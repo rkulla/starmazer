@@ -1,0 +1,14 @@
+
+Compiling starmazer
+-------------------
+Just type:
+
+    $ make
+
+if it complains that you don't have curses.h then install ncurses. The package name could vary depending on your linux distro. For example, ubuntu might use ncurses-dev.
+
+usage
+-----
+Just type:
+
+    $ ./stamazer
